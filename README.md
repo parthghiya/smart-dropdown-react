@@ -2,7 +2,7 @@ Smart Dropdown Component
 
 
 Demo Usage : 
-
+```
 <SmartDropDown 
             title="Simple Example" 
             items={items} 
@@ -12,6 +12,7 @@ Demo Usage :
             itemAdd={itemReceived}
             dropDownClass="my-custom-class"
       />
+```
 
 
       title - Name of the Dropdown
